@@ -1,2 +1,2 @@
 # eDNA-mussel-research
-data repository for independent research under jameson hinkle 
+Data Repository for Independent Research in Professor Jameson Hinkles Laboratory at Longwood University  
